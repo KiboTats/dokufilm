@@ -1,0 +1,21 @@
+{
+  "name": "dokufilm",
+  "version": "1.0.0",
+  "description": "Personal website and portfolio of Nishimura Kiyoshi",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server"
+  },
+  "keywords": [
+    "portfolio",
+    "documentary",
+    "film",
+    "personal-website"
+  ],
+  "author": "Nishimura Kiyoshi",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+} 
